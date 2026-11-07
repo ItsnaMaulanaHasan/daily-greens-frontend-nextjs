@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center bg-emerald-50 px-6 py 16">
+    <main className="flex min-h-screen items-center bg-emerald-50 px-6 py-16">
       <section className="mx-auto w-full max-w-6xl">
         <p className="mb-4 text-sm font-semibold uppercase tracking-widest text-emerald-700">
           Fresh food, better mood
@@ -11,7 +11,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">
-          Temukan pilihan makanan dan minuman segar yang dibuat untuk menamani
+          Temukan pilihan makanan dan minuman segar yang dibuat untuk menemani
           aktivitasmu setiap hari
         </p>
       </section>
