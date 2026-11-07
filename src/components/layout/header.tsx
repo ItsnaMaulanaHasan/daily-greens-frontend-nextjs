@@ -17,7 +17,7 @@ export default function Header() {
             Menu
           </a>
           <a
-            href="#tracking"
+            href="#tentang"
             className="transition-colors hover:text-emerald-700">
             Tentang
           </a>
