@@ -1,4 +1,4 @@
-import { ProductListItem } from "@/types/product";
+import type { ProductListItem } from "@/types/product";
 
 export type ProductCardData = {
   id: string;
@@ -7,7 +7,7 @@ export type ProductCardData = {
   description: string | null;
   categoryName: string;
   imageUrl: string | null;
-  imageAlt: string | null;
+  imageAlt: string;
   startingPrice: number | null;
   preparationTimeMinutes: number | null;
   isAvailable: boolean;
