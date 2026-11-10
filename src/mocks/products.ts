@@ -1,4 +1,4 @@
-import { ProductListResponse } from "@/types/product";
+import type { ProductListResponse } from "@/types/product";
 
 export const featuredProductsResponse = {
   data: [
